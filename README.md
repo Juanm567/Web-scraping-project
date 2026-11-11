@@ -1,6 +1,10 @@
 # Books
 - Practicing web scraping using scrapy to scrape and MongoDB to store data
 - Wrote 'book' spider to gather data from mock site https://books.toscrape.com
+### Implemented
+    - Created a Scrapy project
+    - Built a spider to extract book information
+    - Used CSS selectors to locate HTML elements
 ### learned about
     - Item class and how important it is in scrapy as well as its implementation
     - CSS outline and the benefits of site developer tools to scrape sites
